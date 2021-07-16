@@ -1,0 +1,26 @@
+
+header{
+    background-image: url(/assets/img/headerBg.jpg);
+    padding:0 5%;
+    
+}
+header nav{
+    display: flex;
+    padding-top: 3vh;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    padding-inline-start: 0;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.75rem;
+}
+
+
